@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&display=swap");
+body {
+  font-family: "Raleway", sans-serif;
+  margin: 0;
+}
+
+.region-ytlink {
+  background: #623472;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.region-ytlink .container .row iframe {
+  width: 450px;
+  height: 253px;
+  display: flex;
+  margin: 0 auto 2em auto;
+}
+.region-ytlink .container a {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.region-ytlink .container a span {
+  text-decoration: none;
+  padding: 0.6em 1em;
+  margin: 1em;
+  border: none;
+  background-color: #f09920;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.4em;
+}/*# sourceMappingURL=main.css.map */
